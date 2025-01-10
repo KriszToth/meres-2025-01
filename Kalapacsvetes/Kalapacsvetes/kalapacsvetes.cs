@@ -120,6 +120,7 @@ namespace Kalapacsvetes
             {
                 Console.WriteLine($"Hiba történt a fájl kiírása során: {ex.Message}");
             }
+            Console.ReadLine();
         }
     }
 }
