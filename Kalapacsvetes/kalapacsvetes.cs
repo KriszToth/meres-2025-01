@@ -39,7 +39,7 @@ namespace Kalapacsvetes
                             DateTime.TryParse(mezok[5], out DateTime datum))
                         {
                             sportolok.Add(new Sportolo(
-                                helyezes,
+                                helyezes,   
                                 eredmeny,
                                 mezok[2],
                                 mezok[3],
@@ -47,6 +47,7 @@ namespace Kalapacsvetes
                                 datum
                             ));
                         }
+                        Console.WriteLine($"A fájlban található dobások száma: {sportolok.Count}");
             }
         }
     }
