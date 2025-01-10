@@ -22,5 +22,19 @@ namespace Kalapacsvetes
             Datum = Datum;
         }
 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string fajl = "kalapacsvetes.txt";
+            List<Sportolo> sportolok = new List<Sportolo>();
+
+            try
+            {
+                var sorok = File.ReadAllLines(fajl);
+            }
+        }
+    }
+
     
 }
