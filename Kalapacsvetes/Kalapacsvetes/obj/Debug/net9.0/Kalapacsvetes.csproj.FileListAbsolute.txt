@@ -1,0 +1,15 @@
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.AssemblyInfoInputs.cache
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.AssemblyInfo.cs
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.sourcelink.json
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\bin\Debug\net9.0\Kalapacsvetes.exe
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\bin\Debug\net9.0\Kalapacsvetes.deps.json
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\bin\Debug\net9.0\Kalapacsvetes.runtimeconfig.json
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\bin\Debug\net9.0\Kalapacsvetes.dll
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\bin\Debug\net9.0\Kalapacsvetes.pdb
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.dll
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\refint\Kalapacsvetes.dll
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.pdb
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\Kalapacsvetes.genruntimeconfig.cache
+C:\Users\Krisztián\Desktop\webprog\meres-2025-01\Kalapacsvetes\Kalapacsvetes\obj\Debug\net9.0\ref\Kalapacsvetes.dll
