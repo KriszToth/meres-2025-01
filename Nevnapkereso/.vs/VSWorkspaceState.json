@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Nevnapkereso",
-    "\\Nevnapkereso\\Nevnapkereso"
+    "\\Nevnapkereso\\Nevnapkereso",
+    "\\Nevnapkereso\\Nevnapkereso\\bin",
+    "\\Nevnapkereso\\Nevnapkereso\\obj"
   ],
-  "SelectedNode": "\\Nevnapkereso\\Nevnapkereso.sln",
+  "SelectedNode": "\\Nevnapkereso\\Nevnapkereso\\Form2.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
