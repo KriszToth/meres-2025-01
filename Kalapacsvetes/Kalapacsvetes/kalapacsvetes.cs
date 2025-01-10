@@ -107,6 +107,19 @@ namespace Kalapacsvetes
             {
                 Console.WriteLine($"{stat.Orszag}: {stat.DobasokSzama} dobás");
             }
+            string magyarFajlNev = "magyarok.txt";
+            try
+            {
+                var magyarEredmenyek = magyarSportolok
+                    .Select(s => $"{s.Helyezes};{s.Eredmeny};{s.Nev};{s.Orszagkod};{s.Helyszin};{s.Datum:yyyy.MM.dd}");
+
+                File.WriteAllLines(magyarFajlNev, magyarEredmenyek);
+                Console.WriteLine($"A magyar sportolók eredményei kiírva a következő fájlba: {magyarFajlNev}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Hiba történt a fájl kiírása során: {ex.Message}");
+            }
         }
     }
 }
