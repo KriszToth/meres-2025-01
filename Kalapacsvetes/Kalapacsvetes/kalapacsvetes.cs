@@ -97,6 +97,16 @@ namespace Kalapacsvetes
             else {
                 Console.WriteLine("Érvénytelen szám");
             }
+            var orszagStatisztika = sportolok
+                .GroupBy(s => s.Orszagkod)
+                .Select(g => new { Orszag = g.Key, DobasokSzama = g.Count() })
+                .OrderByDescending(o => o.DobasokSzama);
+
+            Console.WriteLine("Országonkénti statisztika:");
+            foreach (var stat in orszagStatisztika)
+            {
+                Console.WriteLine($"{stat.Orszag}: {stat.DobasokSzama} dobás");
+            }
         }
     }
 }
