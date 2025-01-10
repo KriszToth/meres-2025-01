@@ -70,8 +70,31 @@ namespace Kalapacsvetes
                 double atlag = magyarSportolok.Average(s => s.Eredmeny);
                 Console.WriteLine($"A magyar sportolók dobásainak átlaga: {atlag} m");
             }
-            else {
+            else 
+            {
                 Console.WriteLine("Nem található magyar sportoló.");
+            }
+
+            Console.Write("Adjon meg egy évszámot: ");
+            if (int.TryParse(Console.ReadLine(), out int evszam))
+            {
+                var EviDobasok = sportolok.Where(sbyte => sbyte.Datum.Year == evszam).ToList();
+                if(EviDobasok.Any())
+                {
+                    Console.WriteLine($"Az {evszam} év-ben: {EviDobasok.Count} dobás került be a legjobbak közé");
+                    Console.WriteLine("Sportolók:");
+                    foreach (var sportolo in EviDobasok)
+                    {
+                        Console.WriteLine($"{sportolo.Nev} ({sportolo.Eredmeny} m)");
+                    }  
+                }
+                else
+                {
+                    Console.WriteLine($"{evszam} évben nem került be egyetlen dobás se a legjobbak közé");
+                }
+            }
+            else {
+                Console.WriteLine("Érvénytelen szám");
             }
         }
     }
