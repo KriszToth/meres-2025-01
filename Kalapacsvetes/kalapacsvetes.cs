@@ -32,6 +32,21 @@ namespace Kalapacsvetes
             try
             {
                 var sorok = File.ReadAllLines(fajl);
+
+                if (mezok.Length == 6 && 
+                            int.TryParse(mezok[0], out int helyezes) && 
+                            double.TryParse(mezok[1], out double eredmeny) && 
+                            DateTime.TryParse(mezok[5], out DateTime datum))
+                        {
+                            sportolok.Add(new Sportolo(
+                                helyezes,
+                                eredmeny,
+                                mezok[2],
+                                mezok[3],
+                                mezok[4],
+                                datum
+                            ));
+                        }
             }
         }
     }
