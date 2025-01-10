@@ -78,7 +78,7 @@ namespace Kalapacsvetes
             Console.Write("Adjon meg egy évszámot: ");
             if (int.TryParse(Console.ReadLine(), out int evszam))
             {
-                var EviDobasok = sportolok.Where(sbyte => sbyte.Datum.Year == evszam).ToList();
+                var EviDobasok = sportolok.Where(s => s.Datum.Year == evszam).ToList();
                 if(EviDobasok.Any())
                 {
                     Console.WriteLine($"Az {evszam} év-ben: {EviDobasok.Count} dobás került be a legjobbak közé");
