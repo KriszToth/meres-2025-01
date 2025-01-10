@@ -1,13 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\",
+  "WorkspaceRootPath": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Kalapacsvetes\\kalapacsvetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|c:\\users\\kriszti\u00E1n\\desktop\\webprog\\meres-2025-01\\nevnapkereso\\nevnapkereso\\nevnapkereso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|solutionrelative:nevnapkereso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|c:\\users\\kriszti\u00E1n\\desktop\\webprog\\meres-2025-01\\kalapacsvetes\\nevnapkereso\\nevnapkereso\\nevnapkereso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|c:\\users\\kriszti\u00E1n\\desktop\\webprog\\meres-2025-01\\nevnapkereso\\nevnapkereso\\nevnapkereso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|solutionrelative:nevnapkereso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|c:\\users\\kriszti\u00E1n\\desktop\\webprog\\meres-2025-01\\nevnapkereso\\nevnapkereso\\nevnapkereso\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|solutionrelative:nevnapkereso\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\nevnapkereso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|solutionrelative:nevnapkereso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|c:\\users\\kriszti\u00E1n\\desktop\\webprog\\meres-2025-01\\nevnapkereso\\nevnapkereso\\nevnapkereso\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A3B699-5613-4CB0-8BEE-6205687569F7}|Nevnapkereso\\Nevnapkereso.csproj|solutionrelative:nevnapkereso\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,28 +30,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "kalapacsvetes.cs",
-              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Kalapacsvetes\\kalapacsvetes.cs",
-              "RelativeDocumentMoniker": "..\\..\\Kalapacsvetes\\kalapacsvetes.cs",
-              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Kalapacsvetes\\kalapacsvetes.cs",
-              "RelativeToolTip": "..\\..\\Kalapacsvetes\\kalapacsvetes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form2.cs",
+              "RelativeDocumentMoniker": "Nevnapkereso\\Form2.cs",
+              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form2.cs",
+              "RelativeToolTip": "Nevnapkereso\\Form2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T10:00:50.229Z",
+              "WhenOpened": "2025-01-10T11:11:41.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form2.cs",
+              "RelativeDocumentMoniker": "Nevnapkereso\\Form2.cs",
+              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form2.cs [Design]",
+              "RelativeToolTip": "Nevnapkereso\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:09:25.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Program.cs",
+              "RelativeDocumentMoniker": "Nevnapkereso\\Program.cs",
+              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Program.cs",
+              "RelativeToolTip": "Nevnapkereso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:06:05.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form1.cs",
               "RelativeDocumentMoniker": "Nevnapkereso\\Form1.cs",
-              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form1.cs",
+              "RelativeToolTip": "Nevnapkereso\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:06:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form1.cs",
+              "RelativeDocumentMoniker": "Nevnapkereso\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kriszti\u00E1n\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Form1.cs [Design]",
               "RelativeToolTip": "Nevnapkereso\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T09:59:55.502Z",

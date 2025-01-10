@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj": {}
+    "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj": {
+    "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj",
+        "projectUniqueName": "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj",
         "projectName": "Nevnapkereso",
-        "projectPath": "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj",
+        "projectPath": "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso.csproj",
         "packagesPath": "C:\\Users\\Krisztián\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Kalapacsvetes\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\obj\\",
+        "outputPath": "C:\\Users\\Krisztián\\Desktop\\webprog\\meres-2025-01\\Nevnapkereso\\Nevnapkereso\\Nevnapkereso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
