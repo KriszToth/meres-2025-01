@@ -63,6 +63,16 @@ namespace Kalapacsvetes
             }
 
             Console.WriteLine($"A fájlban található dobások száma: {sportolok.Count}");
+
+            var magyarSportolok = sportolok.Where(s => s.Orszagkod == "HUN").ToList();
+            if ( magyarSportolok.Any())
+            {
+                double atlag = magyarSportolok.Average(s => s.Eredmeny);
+                Console.WriteLine($"A magyar sportolók dobásainak átlaga: {atlag} m");
+            }
+            else {
+                Console.WriteLine("Nem található magyar sportoló.");
+            }
         }
     }
 }
